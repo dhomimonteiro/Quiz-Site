@@ -1,0 +1,655 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What breed of dog was Marley in the film &quot;Marley &amp; Me&quot; (2008)?",
+            "correct_answer": "Labrador Retriever",
+            "all_answers": [
+                "Golden Retriever",
+                "Dalmatian",
+                "Shiba Inu",
+                "Labrador Retriever"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is considered the rarist form of color blindness?",
+            "correct_answer": "Blue",
+            "all_answers": [
+                "Red",
+                "Blue",
+                "Green",
+                "Purple"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the largest city and commercial capital of Sri Lanka?",
+            "correct_answer": "Colombo",
+            "all_answers": [
+                "Moratuwa",
+                "Negombo",
+                "Colombo",
+                "Kandy"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the first book of the Old Testament?",
+            "correct_answer": "Genesis",
+            "all_answers": [
+                "Genesis",
+                "Exodus",
+                "Leviticus",
+                "Numbers"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What number does the Roman numeral &quot;D&quot; stand for?",
+            "correct_answer": "500",
+            "all_answers": [
+                "100",
+                "1000",
+                "50",
+                "500"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The &#039;Islets of Langerhans&#039; is found in which human organ?",
+            "correct_answer": "Pancreas",
+            "all_answers": [
+                "Pancreas",
+                "Kidney",
+                "Liver",
+                "Brain"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the first element on the periodic table?",
+            "correct_answer": "Hydrogen",
+            "all_answers": [
+                "Hydrogen",
+                "Helium",
+                "Oxygen",
+                "Lithium"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is the primary lyricist for Canadian progressive rock band Rush?",
+            "correct_answer": "Neil Peart",
+            "all_answers": [
+                "Geddy Lee",
+                "Neil Peart",
+                "Alex Lifeson",
+                "John Rutsey"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the title of the first Bond movie, released in 1962?",
+            "correct_answer": "Dr. No",
+            "all_answers": [
+                "From Russia with Love",
+                "Goldfinger",
+                "Dr. No",
+                "Thunderball"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What geometric shape is generally used for stop signs?",
+            "correct_answer": "Octagon",
+            "all_answers": [
+                "Hexagon",
+                "Circle",
+                "Triangle",
+                "Octagon"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following Autobot names in Michael Bay&#039;s movies was NOT a name for a Transformer in the original 1980&#039;s cartoon?",
+            "correct_answer": "Mudflap",
+            "all_answers": [
+                "Mudflap",
+                "Skids",
+                "Sideswipe",
+                "Ratchet"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the first &quot;Team Fortress 2&quot; update to include a war?",
+            "correct_answer": "Sniper vs. Spy Update",
+            "all_answers": [
+                "WAR! Update",
+                "Meet Your Match Update",
+                "Sniper vs. Spy Update",
+                "Spy Vs. Engineer Update"
+            ]
+        },
+        {
+            "category": "Celebrities",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these people is NOT a part of the Internet comedy group Mega64?",
+            "correct_answer": "Jon Jafari",
+            "all_answers": [
+                "Rocco Botte",
+                "Jon Jafari",
+                "Derrick Acosta",
+                "Shawn Chatfield"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "When did Canada leave the confederation to become their own nation?",
+            "correct_answer": "July 1st, 1867",
+            "all_answers": [
+                "July 1st, 1763",
+                "July 1st, 1832",
+                "July 1st, 1867",
+                "July 1st, 1902"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In World of Warcraft lore, who was first to have the title &quot;The Ashbringer&quot;?",
+            "correct_answer": "Alexandros Mograine",
+            "all_answers": [
+                "Tirion Fordring",
+                "Alexandros Mograine",
+                "Arthas Menethil",
+                "Uther the Lightbringer"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many cores does the Intel i7-6950X have?",
+            "correct_answer": "10",
+            "all_answers": [
+                "12",
+                "10",
+                "8",
+                "4"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist&#039;s &quot;Ghost&quot;?",
+            "correct_answer": "Nolan North",
+            "all_answers": [
+                "John DiMaggio",
+                "Nolan North",
+                "Mark Hamill",
+                "Troy Baker"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+            "correct_answer": "4",
+            "all_answers": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who are the original creators of Rachet &amp; Clank?",
+            "correct_answer": "Insomniac Games",
+            "all_answers": [
+                "PixelTail Games",
+                "Rare",
+                "Insomniac Games",
+                "Bethesda"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "&quot;Drink the Sea&quot; is an album by which electronic music artist?",
+            "correct_answer": "The Glitch Mob",
+            "all_answers": [
+                "The Glitch Mob",
+                "Avicii",
+                "XXYYXX",
+                "Flux Pavilion"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the last song on the first Panic! At the Disco album?",
+            "correct_answer": "Build God, Then We&#039;ll Talk",
+            "all_answers": [
+                "Build God, Then We&#039;ll Talk",
+                "Nails for Breakfast, Tacks for Snacks",
+                "I Write Sins Not Tragedies",
+                "Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many playable characters are there in Super Smash Bros. for Nintendo 3DS and Wii U?",
+            "correct_answer": "58",
+            "all_answers": [
+                "48",
+                "51",
+                "55",
+                "58"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What year did the New Orleans Saints win the Super Bowl?",
+            "correct_answer": "2010",
+            "all_answers": [
+                "2008",
+                "2009",
+                "2011",
+                "2010"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the first Studio Album to be released on the Internet with a &quot;Pay-What-You-Want&quot; price?",
+            "correct_answer": "In Rainbows",
+            "all_answers": [
+                "In Rainbows",
+                "The Help Album",
+                "Skrillex and Diplo Present Jack &Uuml;",
+                "Blackstar"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the winner of the 2016 WWE Royal Rumble?",
+            "correct_answer": "Triple H",
+            "all_answers": [
+                "Roman Reigns",
+                "Triple H",
+                "AJ Styles",
+                "Dean Ambrose"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which franchise was NOT featured in the 2015 video game &quot;Lego Dimensions&quot;?",
+            "correct_answer": "Breaking Bad",
+            "all_answers": [
+                "Breaking Bad",
+                "Portal",
+                "Doctor Who",
+                "Back to the Future"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the &quot;Halo&quot; series, what is the name of the race of aliens humans refer to as &quot;Grunts&quot;?",
+            "correct_answer": "Unggoy",
+            "all_answers": [
+                "Huragok",
+                "Sangheili",
+                "Yanme&#039;e",
+                "Unggoy"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How long did the Warsaw Uprising during World War II last?",
+            "correct_answer": "63 Days",
+            "all_answers": [
+                "20 Days",
+                "55 Days",
+                "224 Days",
+                "63 Days"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the full name of the protagonist from the indie adventure game &quot;Night in the Woods&quot;?",
+            "correct_answer": "Margaret Borowski",
+            "all_answers": [
+                "Marlena Woborski",
+                "Milena Catharina",
+                "Katia Managan",
+                "Margaret Borowski"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, what does the game traditionally reward you for completing a boss round?",
+            "correct_answer": "Max Ammo",
+            "all_answers": [
+                "Max Ammo",
+                "A Pack-A-Punched gun",
+                "Death Machine",
+                "Monkey Bombs"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was the People&#039;s Republic of China founded?",
+            "correct_answer": "October 1, 1949",
+            "all_answers": [
+                "October 1, 1949",
+                "April 3, 1947",
+                "May 7, 1945",
+                "December 6, 1950"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What were the first two blocks in &quot;Minecraft&quot;?",
+            "correct_answer": "Grass and Cobblestone",
+            "all_answers": [
+                "Grass and Stone",
+                "Crafting Table and Cobblestone",
+                "Cobblestone and Stone",
+                "Grass and Cobblestone"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What Queen song plays during the final fight scene of the film &quot;Hardcore Henry&quot;?",
+            "correct_answer": "Don&#039;t Stop Me Now",
+            "all_answers": [
+                "Brighton Rock",
+                "Another Bites the Dust",
+                "Don&#039;t Stop Me Now",
+                "We Will Rock You"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What military rank is the protagonist &quot;Nomad&quot; in &quot;Crysis&quot;?",
+            "correct_answer": "First Lieutenant",
+            "all_answers": [
+                "Captain",
+                "First Sargent ",
+                "First Lieutenant",
+                "Staff Sargent"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+            "correct_answer": "Californian",
+            "all_answers": [
+                "Carpathia",
+                "Cristol",
+                "Californian",
+                "Commerce"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following is the longest river in Europe?",
+            "correct_answer": "Volga",
+            "all_answers": [
+                "Danube",
+                "Ural",
+                "Dnieper",
+                "Volga"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country, not including Japan, has the most people of japanese decent?",
+            "correct_answer": "Brazil",
+            "all_answers": [
+                "China",
+                "South Korea",
+                "Brazil",
+                "United States of America"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the default name of the Vampire character in &quot;Shining Soul 2&quot;.",
+            "correct_answer": "Bloodstar",
+            "all_answers": [
+                "Sachs",
+                "Dracuul",
+                "Alucard",
+                "Bloodstar"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who created Agent 47 in the game series &quot;Hitman&quot;?",
+            "correct_answer": "Dr. Otto Wolfgang Ort-Meyer",
+            "all_answers": [
+                "Professor Hertz Amadeus Schneider",
+                "Dr. Josef Mengele",
+                "Dr. Otto Wolfgang Ort-Meyer",
+                "Professor Otto Rothwinkler"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the first game in the &quot;Battlefield&quot; series?",
+            "correct_answer": "Battlefield 1942",
+            "all_answers": [
+                "Battlefield Vietnam",
+                "Battlefield 2",
+                "Battlefield 1942",
+                "Battlefield 1"
+            ]
+        },
+        {
+            "category": "Entertainment: Cartoon & Animations",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who voiced Finn in Adventure Time?",
+            "correct_answer": "Jeremy Shada",
+            "all_answers": [
+                "Nolan North",
+                "John DiMaggio",
+                "Tom Kenny",
+                "Jeremy Shada"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which weapon that was cut from the game &quot;Half Life 2&quot; was going to replace the crowbar?",
+            "correct_answer": "Ice Axe",
+            "all_answers": [
+                "Fire Axe",
+                "Wrench",
+                "Hunting Knife",
+                "Ice Axe"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Call of Duty: Modern Warfare 2, how many consecutive kills does it require to earn the &quot;Tactical Nuke&quot; killstreak?",
+            "correct_answer": "25",
+            "all_answers": [
+                "20",
+                "30",
+                "35",
+                "25"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is the author of the series &quot;Malazan Book of the Fallen&quot;?",
+            "correct_answer": "Steven Erikson",
+            "all_answers": [
+                "Ian Cameron Esslemont",
+                "George R. R. Martin",
+                "Steven Erikson",
+                "J. R. R. Tolkien"
+            ]
+        },
+        {
+            "category": "Entertainment: Musicals & Theatres",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The Andrew Lloyd Webber musical &quot;Cats&quot; is based off a book of poems written by which author?",
+            "correct_answer": "T.S. Elliot",
+            "all_answers": [
+                "Andrew Lloyd Webber",
+                "T.S. Elliot",
+                "Emily Dickenson",
+                "Robert Frost"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What city is the Terracotta Army located in?",
+            "correct_answer": "Xi&#039;an",
+            "all_answers": [
+                "Beijing",
+                "Shanghai",
+                "Hong Kong",
+                "Xi&#039;an"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the Team Fortress 2 canon, what did Shakespearicles NOT invent?",
+            "correct_answer": "Stairs",
+            "all_answers": [
+                "Stairs",
+                "Two-Story Building",
+                "Rocket Launcher",
+                "Stage Play"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the guitarist in the band &quot;The Doors&quot;?",
+            "correct_answer": "Robby Krieger",
+            "all_answers": [
+                "Robby Krieger",
+                "Eric Clapton",
+                "John Densmore",
+                "Jimi Hendrix"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the main protagonist in the game Life is Strange: Before The Storm?",
+            "correct_answer": "Chloe Price ",
+            "all_answers": [
+                "Max Caulfield",
+                "Rachel Amber",
+                "Frank Bowers",
+                "Chloe Price"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does the computer software acronym JVM stand for?",
+            "correct_answer": "Java Virtual Machine",
+            "all_answers": [
+                "Java Vendor Machine",
+                "Java Visual Machine",
+                "Just Virtual Machine",
+                "Java Virtual Machine"
+            ]
+        }
+    ]
+}

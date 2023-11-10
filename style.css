@@ -1,0 +1,127 @@
+body {
+    /* box model */
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    /* typography */
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    /* layout */
+    display: flex;
+    justify-content: center;
+    margin: 20px 20px;
+}
+
+main #initial-Menu .button {
+    display: flex;
+    justify-content: center;
+}
+
+main #initial-Menu .button button{
+    /* box model */
+    height: 50px;
+    width: 100px;
+    border: 0;
+    border-radius: 25px;
+    
+    /* background */
+    background-color: rgb(56, 56, 56);
+
+    /* typography */
+    color: rgb(241, 241, 241);
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+    /* others */
+    cursor: pointer;
+    transition: .2s;
+}
+
+main #initial-Menu .button button:hover{
+    /* background */
+    background-color: rgb(104, 104, 104);
+
+    /* others */
+    transform: scale(1.1);
+    transition: .2s;
+}
+
+#questions {
+    /* box model */
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 20px;
+
+    /* layout */
+    display: none;
+}
+
+#questions .perguntas {
+    /* typography */
+    font-size: 25px;
+}
+
+#questions .respostas {
+    /* box model */
+    width: 95%;
+    margin: 0 20px;
+
+}
+
+#questions input,
+#questions .opcao,
+#questions label {
+    /* others */
+    cursor: pointer;
+}
+
+#questions .opcao {
+    /* box model */
+    height: 60px;
+    width: 100%;
+    border: 1px solid rgb(172, 168, 187);
+    border-radius: 10px;
+
+    /* background */
+    background-color: rgb(241, 239, 248);
+
+    /* typography */
+    font-size: 16px;
+    line-height: 60px;
+
+    /* others */
+    transition: .2s;
+}
+
+#questions .opcao:hover {
+    background-color: rgb(217, 215, 224);
+    
+}
+
+#questions .opcao label{
+     /* box model */
+     width: 400px !important;
+}
+
+.results {
+    height: 300px;
+    width: 500px;
+    border: 1px solid rgb(172, 168, 187);
+
+    display: none;
+
+}
+.results .box{
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
